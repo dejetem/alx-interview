@@ -5,6 +5,9 @@ a method that calculates the fewest number of operations needed to result
 
 
 def minOperations(n):
+    """
+    returns the fewest number of operation need to result
+    """
     p = 0
 
     if n <= 1:
